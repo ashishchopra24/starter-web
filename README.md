@@ -8,3 +8,6 @@ Sample website with plenty of files for demos
 
 ## Deployment
 Deployment is done via docker
+
+###Copyright
+Copyrighted to ashish
