@@ -11,3 +11,6 @@ Deployment is done via docker
 
 ###Copyright
 Copyrighted to ashish
+
+###Auhor
+Ashish Chopra
