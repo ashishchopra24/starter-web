@@ -13,7 +13,7 @@ Adding line fore rebase
 Deployment is done via docker
 
 ##Copyright
-Copyrighted to ashish
+Copyrighted to ashish chopra
 
 ###Auhor
 Ashish Chopra
